@@ -1,5 +1,5 @@
 week02
--linux command : ls, ls -a, ls -al, pwd, cs .git, cd ..
+-linux command : ls, ls -a, ls -al, pwd, cs .git, cd .., echo "" >>README.md
 -git command
  git init
  git status
@@ -8,3 +8,9 @@ week02
  git config -global user.name "Your Name"
  git commit -m "v0"
  git log
+ git checkout hashcode
+ git checkoout -
+ git branch -M main
+ git remote add origin https://github.com/inhatckimtaeganc/test.git
+ git remote -v
+ git push -u origin main 
