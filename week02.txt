@@ -1,0 +1,10 @@
+week02
+-linux command : ls, ls -a, ls -al, pwd, cs .git, cd ..
+-git command
+ git init
+ git status
+ git add week01.txt
+ git config --global user.email "you@example.com"
+ git config -global user.name "Your Name"
+ git commit -m "v0"
+ git log
